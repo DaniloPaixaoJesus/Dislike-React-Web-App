@@ -1,0 +1,8 @@
+java -jar instalura.jar
+
+http://localhost:8080/gera/dados
+
+usuário = alots, senha = 123456;
+usuário = rafael, senha = 123456;
+usuário = vitor, senha = 123456
+
